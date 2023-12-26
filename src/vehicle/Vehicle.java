@@ -1,7 +1,7 @@
 package vehicle;
 
 public class Vehicle {
-public static void horn() {
-	System.out.println("Beep");
-}
+	public static void horn() {
+		System.out.println("Beep");
+	}
 }
